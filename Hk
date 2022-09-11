@@ -1,0 +1,14 @@
+<html>
+<head>
+<title>
+My first experiment here
+</title>
+</head>
+<body>
+<script>
+alert("hello, every body")
+Var nam; 
+Prompt ("insert your name", nam)
+</script>
+</body>
+</html>
